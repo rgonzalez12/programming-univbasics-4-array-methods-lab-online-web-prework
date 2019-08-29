@@ -16,7 +16,7 @@ def using_reverse(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   element1 = "wow"
   element2 = "Tardis"
-  array.last
+  array.reverse
 end
 
 def using_first(array)

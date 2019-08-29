@@ -9,7 +9,6 @@ def using_sort(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   element1 = "wow"
   element2 = "Tardis"
-  array.include?(element)
   array.sort
 end
 
